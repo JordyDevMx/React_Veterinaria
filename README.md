@@ -1,3 +1,8 @@
+# Veterinaria Pacientes
+Repositorio del proyecto JordyDev
+![cortado](https://github.com/user-attachments/assets/1e07c1db-f5ce-4c82-9b6f-4af33920ffc8)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
